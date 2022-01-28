@@ -30,6 +30,8 @@ RUN npm install
 
 RUN npm instal pm2 -g
 
+RUN npm i @adiwajshing/baileys@3.5.3
+
 
 
 
